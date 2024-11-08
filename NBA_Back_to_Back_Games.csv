@@ -1,0 +1,423 @@
+Date,Team,Visitor_PTS,Home_PTS,Previous_Game_Date,Back_to_Back
+2023-10-30,Atlanta Hawks,,127.0,2023-10-29,True
+2023-11-15,Atlanta Hawks,,114.0,2023-11-14,True
+2023-11-22,Atlanta Hawks,,147.0,2023-11-21,True
+2023-11-26,Atlanta Hawks,103.0,,2023-11-25,True
+2023-12-16,Atlanta Hawks,119.0,,2023-12-15,True
+2023-12-23,Atlanta Hawks,,119.0,2023-12-22,True
+2024-01-13,Atlanta Hawks,,99.0,2024-01-12,True
+2024-01-20,Atlanta Hawks,,95.0,2024-01-19,True
+2024-02-03,Atlanta Hawks,,141.0,2024-02-02,True
+2024-02-10,Atlanta Hawks,,122.0,2024-02-09,True
+2024-03-06,Atlanta Hawks,,112.0,2024-03-05,True
+2024-03-18,Atlanta Hawks,105.0,,2024-03-17,True
+2024-03-28,Atlanta Hawks,,123.0,2024-03-27,True
+2024-04-04,Atlanta Hawks,95.0,,2024-04-03,True
+2024-04-10,Atlanta Hawks,,114.0,2024-04-09,True
+2023-11-11,Boston Celtics,,117.0,2023-11-10,True
+2023-11-20,Boston Celtics,118.0,,2023-11-19,True
+2023-12-15,Boston Celtics,,128.0,2023-12-14,True
+2023-12-20,Boston Celtics,144.0,,2023-12-19,True
+2023-12-29,Boston Celtics,,120.0,2023-12-28,True
+2024-01-06,Boston Celtics,118.0,,2024-01-05,True
+2024-01-11,Boston Celtics,102.0,,2024-01-10,True
+2024-01-22,Boston Celtics,119.0,,2024-01-21,True
+2024-01-30,Boston Celtics,,129.0,2024-01-29,True
+2024-02-14,Boston Celtics,,136.0,2024-02-13,True
+2024-03-12,Boston Celtics,123.0,,2024-03-11,True
+2024-03-18,Boston Celtics,,119.0,2024-03-17,True
+2024-03-23,Boston Celtics,124.0,,2024-03-22,True
+2024-04-12,Boston Celtics,,131.0,2024-04-11,True
+2023-11-04,Brooklyn Nets,,114.0,2023-11-03,True
+2023-11-26,Brooklyn Nets,,118.0,2023-11-25,True
+2023-12-14,Brooklyn Nets,101.0,,2023-12-13,True
+2023-12-23,Brooklyn Nets,,126.0,2023-12-22,True
+2023-12-27,Brooklyn Nets,,122.0,2023-12-26,True
+2024-01-03,Brooklyn Nets,101.0,,2024-01-02,True
+2024-02-06,Brooklyn Nets,,107.0,2024-02-05,True
+2024-02-14,Brooklyn Nets,86.0,,2024-02-13,True
+2024-02-27,Brooklyn Nets,81.0,,2024-02-26,True
+2024-03-05,Brooklyn Nets,,112.0,2024-03-04,True
+2024-03-10,Brooklyn Nets,120.0,,2024-03-09,True
+2024-03-17,Brooklyn Nets,115.0,,2024-03-16,True
+2024-04-01,Brooklyn Nets,111.0,,2024-03-31,True
+2024-04-07,Brooklyn Nets,,77.0,2024-04-06,True
+2023-11-05,Charlotte Hornets,118.0,,2023-11-04,True
+2023-11-18,Charlotte Hornets,,108.0,2023-11-17,True
+2023-12-16,Charlotte Hornets,,82.0,2023-12-15,True
+2023-12-29,Charlotte Hornets,119.0,,2023-12-28,True
+2024-01-02,Charlotte Hornets,111.0,,2024-01-01,True
+2024-01-20,Charlotte Hornets,,89.0,2024-01-19,True
+2024-01-27,Charlotte Hornets,,122.0,2024-01-26,True
+2024-02-05,Charlotte Hornets,,118.0,2024-02-04,True
+2024-02-10,Charlotte Hornets,,115.0,2024-02-09,True
+2024-02-23,Charlotte Hornets,84.0,,2024-02-22,True
+2024-03-01,Charlotte Hornets,114.0,,2024-02-29,True
+2024-03-09,Charlotte Hornets,,110.0,2024-03-08,True
+2024-03-16,Charlotte Hornets,98.0,,2024-03-15,True
+2024-04-01,Charlotte Hornets,,104.0,2024-03-31,True
+2024-04-10,Charlotte Hornets,115.0,,2024-04-09,True
+2023-10-28,Chicago Bulls,102.0,,2023-10-27,True
+2023-11-04,Chicago Bulls,101.0,,2023-11-03,True
+2023-11-13,Chicago Bulls,109.0,,2023-11-12,True
+2023-11-18,Chicago Bulls,,102.0,2023-11-17,True
+2023-12-12,Chicago Bulls,,106.0,2023-12-11,True
+2023-12-21,Chicago Bulls,,114.0,2023-12-20,True
+2024-01-03,Chicago Bulls,100.0,,2024-01-02,True
+2024-01-13,Chicago Bulls,122.0,,2024-01-12,True
+2024-01-31,Chicago Bulls,117.0,,2024-01-30,True
+2024-02-28,Chicago Bulls,,132.0,2024-02-27,True
+2024-03-07,Chicago Bulls,125.0,,2024-03-06,True
+2024-03-14,Chicago Bulls,,111.0,2024-03-13,True
+2024-04-01,Chicago Bulls,,101.0,2024-03-31,True
+2024-04-12,Chicago Bulls,129.0,,2024-04-11,True
+2023-10-28,Cleveland Cavaliers,,113.0,2023-10-27,True
+2023-11-01,Cleveland Cavaliers,95.0,,2023-10-31,True
+2023-11-22,Cleveland Cavaliers,,96.0,2023-11-21,True
+2023-11-26,Cleveland Cavaliers,,105.0,2023-11-25,True
+2023-12-12,Cleveland Cavaliers,113.0,,2023-12-11,True
+2023-12-21,Cleveland Cavaliers,,104.0,2023-12-20,True
+2024-02-01,Cleveland Cavaliers,108.0,,2024-01-31,True
+2024-02-08,Cleveland Cavaliers,118.0,,2024-02-07,True
+2024-02-23,Cleveland Cavaliers,97.0,,2024-02-22,True
+2024-02-28,Cleveland Cavaliers,123.0,,2024-02-27,True
+2024-03-06,Cleveland Cavaliers,101.0,,2024-03-05,True
+2024-03-11,Cleveland Cavaliers,,111.0,2024-03-10,True
+2024-03-25,Cleveland Cavaliers,,115.0,2024-03-24,True
+2024-04-03,Cleveland Cavaliers,101.0,,2024-04-02,True
+2024-04-07,Cleveland Cavaliers,118.0,,2024-04-06,True
+2023-11-06,Dallas Mavericks,117.0,,2023-11-05,True
+2023-11-15,Dallas Mavericks,130.0,,2023-11-14,True
+2023-11-19,Dallas Mavericks,,113.0,2023-11-18,True
+2023-12-02,Dallas Mavericks,,120.0,2023-12-01,True
+2023-12-12,Dallas Mavericks,,127.0,2023-12-11,True
+2023-12-23,Dallas Mavericks,,144.0,2023-12-22,True
+2023-12-28,Dallas Mavericks,110.0,,2023-12-27,True
+2024-01-27,Dallas Mavericks,,115.0,2024-01-26,True
+2024-02-06,Dallas Mavericks,119.0,,2024-02-05,True
+2024-02-28,Dallas Mavericks,136.0,,2024-02-27,True
+2024-03-14,Dallas Mavericks,119.0,,2024-03-13,True
+2024-03-26,Dallas Mavericks,132.0,,2024-03-25,True
+2024-04-05,Dallas Mavericks,,108.0,2024-04-04,True
+2024-04-10,Dallas Mavericks,111.0,,2024-04-09,True
+2023-10-30,Denver Nuggets,,110.0,2023-10-29,True
+2023-11-04,Denver Nuggets,,123.0,2023-11-03,True
+2023-11-20,Denver Nuggets,107.0,,2023-11-19,True
+2023-11-27,Denver Nuggets,113.0,,2023-11-26,True
+2023-12-02,Denver Nuggets,117.0,,2023-12-01,True
+2023-12-12,Denver Nuggets,114.0,,2023-12-11,True
+2023-12-23,Denver Nuggets,102.0,,2023-12-22,True
+2023-12-29,Denver Nuggets,,93.0,2023-12-28,True
+2024-01-05,Denver Nuggets,,120.0,2024-01-04,True
+2024-02-09,Denver Nuggets,106.0,,2024-02-08,True
+2024-02-23,Denver Nuggets,127.0,,2024-02-22,True
+2024-02-29,Denver Nuggets,,103.0,2024-02-28,True
+2024-04-10,Denver Nuggets,,116.0,2024-04-09,True
+2023-10-28,Detroit Pistons,,118.0,2023-10-27,True
+2023-11-02,Detroit Pistons,116.0,,2023-11-01,True
+2023-11-06,Detroit Pistons,,109.0,2023-11-05,True
+2023-11-20,Detroit Pistons,,103.0,2023-11-19,True
+2023-11-30,Detroit Pistons,112.0,,2023-11-29,True
+2023-12-16,Detroit Pistons,114.0,,2023-12-15,True
+2024-01-10,Detroit Pistons,,108.0,2024-01-09,True
+2024-01-28,Detroit Pistons,,120.0,2024-01-27,True
+2024-02-08,Detroit Pistons,128.0,,2024-02-07,True
+2024-02-14,Detroit Pistons,100.0,,2024-02-13,True
+2024-02-27,Detroit Pistons,105.0,,2024-02-26,True
+2024-03-18,Detroit Pistons,94.0,,2024-03-17,True
+2024-03-25,Detroit Pistons,99.0,,2024-03-24,True
+2024-04-06,Detroit Pistons,103.0,,2024-04-05,True
+2024-04-12,Detroit Pistons,107.0,,2024-04-11,True
+2023-10-30,Golden State Warriors,130.0,,2023-10-29,True
+2023-11-06,Golden State Warriors,120.0,,2023-11-05,True
+2023-11-12,Golden State Warriors,,110.0,2023-11-11,True
+2023-12-17,Golden State Warriors,118.0,,2023-12-16,True
+2023-12-23,Golden State Warriors,,126.0,2023-12-22,True
+2024-01-05,Golden State Warriors,,113.0,2024-01-04,True
+2024-01-13,Golden State Warriors,118.0,,2024-01-12,True
+2024-01-25,Golden State Warriors,,133.0,2024-01-24,True
+2024-02-03,Golden State Warriors,134.0,,2024-02-02,True
+2024-02-08,Golden State Warriors,131.0,,2024-02-07,True
+2024-02-15,Golden State Warriors,140.0,,2024-02-14,True
+2024-02-23,Golden State Warriors,,97.0,2024-02-22,True
+2024-03-01,Golden State Warriors,120.0,,2024-02-29,True
+2024-03-07,Golden State Warriors,,122.0,2024-03-06,True
+2024-03-27,Golden State Warriors,101.0,,2024-03-26,True
+2024-04-05,Golden State Warriors,106.0,,2024-04-04,True
+2024-04-12,Golden State Warriors,,109.0,2024-04-11,True
+2023-11-20,Houston Rockets,116.0,,2023-11-19,True
+2023-11-29,Houston Rockets,124.0,,2023-11-28,True
+2023-12-18,Houston Rockets,130.0,,2023-12-17,True
+2023-12-23,Houston Rockets,106.0,,2023-12-22,True
+2023-12-27,Houston Rockets,,113.0,2023-12-26,True
+2024-01-06,Houston Rockets,,112.0,2024-01-05,True
+2024-01-13,Houston Rockets,113.0,,2024-01-12,True
+2024-01-21,Houston Rockets,,107.0,2024-01-20,True
+2024-01-27,Houston Rockets,104.0,,2024-01-26,True
+2024-02-10,Houston Rockets,113.0,,2024-02-09,True
+2024-02-23,Houston Rockets,,114.0,2024-02-22,True
+2024-03-06,Houston Rockets,,116.0,2024-03-05,True
+2024-04-05,Houston Rockets,,104.0,2024-04-04,True
+2024-04-12,Houston Rockets,116.0,,2024-04-11,True
+2023-11-04,Indiana Pacers,,124.0,2023-11-03,True
+2023-11-09,Indiana Pacers,,126.0,2023-11-08,True
+2023-11-22,Indiana Pacers,,131.0,2023-11-21,True
+2023-12-16,Indiana Pacers,109.0,,2023-12-15,True
+2023-12-21,Indiana Pacers,103.0,,2023-12-20,True
+2024-01-06,Indiana Pacers,,101.0,2024-01-05,True
+2024-01-15,Indiana Pacers,105.0,,2024-01-14,True
+2024-01-19,Indiana Pacers,115.0,,2024-01-18,True
+2024-01-26,Indiana Pacers,,133.0,2024-01-25,True
+2024-02-02,Indiana Pacers,,122.0,2024-02-01,True
+2024-02-26,Indiana Pacers,,122.0,2024-02-25,True
+2024-03-13,Indiana Pacers,,129.0,2024-03-12,True
+2024-03-25,Indiana Pacers,133.0,,2024-03-24,True
+2023-11-01,Los Angeles Clippers,125.0,,2023-10-31,True
+2023-11-25,Los Angeles Clippers,,107.0,2023-11-24,True
+2023-11-30,Los Angeles Clippers,114.0,,2023-11-29,True
+2023-12-12,Los Angeles Clippers,,119.0,2023-12-11,True
+2023-12-21,Los Angeles Clippers,115.0,,2023-12-20,True
+2024-01-08,Los Angeles Clippers,,138.0,2024-01-07,True
+2024-01-27,Los Angeles Clippers,115.0,,2024-01-26,True
+2024-02-05,Los Angeles Clippers,149.0,,2024-02-04,True
+2024-02-23,Los Angeles Clippers,101.0,,2024-02-22,True
+2024-03-04,Los Angeles Clippers,106.0,,2024-03-03,True
+2024-03-10,Los Angeles Clippers,,117.0,2024-03-09,True
+2024-03-15,Los Angeles Clippers,104.0,,2024-03-14,True
+2024-03-25,Los Angeles Clippers,,116.0,2024-03-24,True
+2024-04-05,Los Angeles Clippers,,131.0,2024-04-04,True
+2024-04-10,Los Angeles Clippers,,108.0,2024-04-09,True
+2023-10-30,Los Angeles Lakers,,106.0,2023-10-29,True
+2023-11-15,Los Angeles Lakers,,110.0,2023-11-14,True
+2023-11-22,Los Angeles Lakers,,101.0,2023-11-21,True
+2023-11-30,Los Angeles Lakers,110.0,,2023-11-29,True
+2023-12-13,Los Angeles Lakers,122.0,,2023-12-12,True
+2023-12-21,Los Angeles Lakers,111.0,,2023-12-20,True
+2023-12-31,Los Angeles Lakers,109.0,,2023-12-30,True
+2024-01-30,Los Angeles Lakers,122.0,,2024-01-29,True
+2024-02-09,Los Angeles Lakers,,139.0,2024-02-08,True
+2024-02-14,Los Angeles Lakers,138.0,,2024-02-13,True
+2024-02-23,Los Angeles Lakers,,123.0,2024-02-22,True
+2024-02-29,Los Angeles Lakers,,134.0,2024-02-28,True
+2024-03-27,Los Angeles Lakers,136.0,,2024-03-26,True
+2024-04-03,Los Angeles Lakers,125.0,,2024-04-02,True
+2024-04-07,Los Angeles Lakers,,117.0,2024-04-06,True
+2023-10-28,Memphis Grizzlies,106.0,,2023-10-27,True
+2023-11-19,Memphis Grizzlies,,100.0,2023-11-18,True
+2023-12-02,Memphis Grizzlies,109.0,,2023-12-01,True
+2023-12-19,Memphis Grizzlies,115.0,,2023-12-18,True
+2023-12-29,Memphis Grizzlies,106.0,,2023-12-28,True
+2024-01-03,Memphis Grizzlies,,111.0,2024-01-02,True
+2024-01-13,Memphis Grizzlies,,94.0,2024-01-12,True
+2024-01-29,Memphis Grizzlies,,94.0,2024-01-28,True
+2024-02-02,Memphis Grizzlies,,101.0,2024-02-01,True
+2024-02-15,Memphis Grizzlies,,113.0,2024-02-14,True
+2024-03-02,Memphis Grizzlies,,100.0,2024-03-01,True
+2024-03-13,Memphis Grizzlies,,98.0,2024-03-12,True
+2024-04-06,Memphis Grizzlies,,96.0,2024-04-05,True
+2024-04-10,Memphis Grizzlies,98.0,,2024-04-09,True
+2023-10-28,Miami Heat,90.0,,2023-10-27,True
+2023-11-12,Miami Heat,118.0,,2023-11-11,True
+2023-11-25,Miami Heat,97.0,,2023-11-24,True
+2023-12-14,Miami Heat,,116.0,2023-12-13,True
+2024-01-15,Miami Heat,96.0,,2024-01-14,True
+2024-01-25,Miami Heat,,110.0,2024-01-24,True
+2024-02-07,Miami Heat,,116.0,2024-02-06,True
+2024-02-14,Miami Heat,109.0,,2024-02-13,True
+2024-02-27,Miami Heat,106.0,,2024-02-26,True
+2024-03-08,Miami Heat,100.0,,2024-03-07,True
+2024-03-18,Miami Heat,91.0,,2024-03-17,True
+2024-04-05,Miami Heat,119.0,,2024-04-04,True
+2024-04-10,Miami Heat,,92.0,2024-04-09,True
+2023-10-30,Milwaukee Bucks,,122.0,2023-10-29,True
+2023-11-09,Milwaukee Bucks,124.0,,2023-11-08,True
+2023-11-18,Milwaukee Bucks,,132.0,2023-11-17,True
+2023-12-17,Milwaukee Bucks,,128.0,2023-12-16,True
+2024-01-04,Milwaukee Bucks,125.0,,2024-01-03,True
+2024-01-14,Milwaukee Bucks,,143.0,2024-01-13,True
+2024-01-27,Milwaukee Bucks,,141.0,2024-01-26,True
+2024-02-04,Milwaukee Bucks,108.0,,2024-02-03,True
+2024-02-09,Milwaukee Bucks,,120.0,2024-02-08,True
+2024-02-13,Milwaukee Bucks,,97.0,2024-02-12,True
+2024-03-01,Milwaukee Bucks,113.0,,2024-02-29,True
+2024-03-21,Milwaukee Bucks,,115.0,2024-03-20,True
+2024-04-03,Milwaukee Bucks,,101.0,2024-04-02,True
+2024-04-10,Milwaukee Bucks,,117.0,2024-04-09,True
+2023-11-15,Minnesota Timberwolves,115.0,,2023-11-14,True
+2023-12-21,Minnesota Timberwolves,,118.0,2023-12-20,True
+2024-01-10,Minnesota Timberwolves,120.0,,2024-01-09,True
+2024-01-18,Minnesota Timberwolves,,118.0,2024-01-17,True
+2024-01-25,Minnesota Timberwolves,96.0,,2024-01-24,True
+2024-02-13,Minnesota Timberwolves,121.0,,2024-02-12,True
+2024-02-24,Minnesota Timberwolves,,101.0,2024-02-23,True
+2024-02-28,Minnesota Timberwolves,,110.0,2024-02-27,True
+2024-03-04,Minnesota Timberwolves,,119.0,2024-03-03,True
+2024-03-08,Minnesota Timberwolves,104.0,,2024-03-07,True
+2024-03-19,Minnesota Timberwolves,,112.0,2024-03-18,True
+2024-04-03,Minnesota Timberwolves,,133.0,2024-04-02,True
+2024-04-10,Minnesota Timberwolves,107.0,,2024-04-09,True
+2023-11-02,New Orleans Pelicans,,125.0,2023-11-01,True
+2023-11-18,New Orleans Pelicans,,120.0,2023-11-17,True
+2023-11-25,New Orleans Pelicans,100.0,,2023-11-24,True
+2023-12-02,New Orleans Pelicans,118.0,,2023-12-01,True
+2024-01-03,New Orleans Pelicans,117.0,,2024-01-02,True
+2024-01-13,New Orleans Pelicans,118.0,,2024-01-12,True
+2024-01-27,New Orleans Pelicans,117.0,,2024-01-26,True
+2024-02-10,New Orleans Pelicans,93.0,,2024-02-09,True
+2024-02-23,New Orleans Pelicans,,95.0,2024-02-22,True
+2024-02-28,New Orleans Pelicans,114.0,,2024-02-27,True
+2024-03-16,New Orleans Pelicans,,126.0,2024-03-15,True
+2024-03-22,New Orleans Pelicans,111.0,,2024-03-21,True
+2024-04-12,New Orleans Pelicans,114.0,,2024-04-11,True
+2023-10-28,New York Knicks,87.0,,2023-10-27,True
+2023-11-01,New York Knicks,,89.0,2023-10-31,True
+2023-11-13,New York Knicks,98.0,,2023-11-12,True
+2023-11-18,New York Knicks,122.0,,2023-11-17,True
+2023-12-01,New York Knicks,119.0,,2023-11-30,True
+2023-12-16,New York Knicks,122.0,,2023-12-15,True
+2023-12-30,New York Knicks,126.0,,2023-12-29,True
+2024-01-06,New York Knicks,121.0,,2024-01-05,True
+2024-01-18,New York Knicks,,113.0,2024-01-17,True
+2024-01-30,New York Knicks,,118.0,2024-01-29,True
+2024-02-27,New York Knicks,,92.0,2024-02-26,True
+2024-04-05,New York Knicks,100.0,,2024-04-04,True
+2024-04-12,New York Knicks,,111.0,2024-04-11,True
+2023-10-30,Oklahoma City Thunder,,124.0,2023-10-29,True
+2023-11-19,Oklahoma City Thunder,134.0,,2023-11-18,True
+2023-12-27,Oklahoma City Thunder,,129.0,2023-12-26,True
+2024-01-03,Oklahoma City Thunder,138.0,,2024-01-02,True
+2024-01-11,Oklahoma City Thunder,,139.0,2024-01-10,True
+2024-01-16,Oklahoma City Thunder,117.0,,2024-01-15,True
+2024-01-24,Oklahoma City Thunder,140.0,,2024-01-23,True
+2024-01-29,Oklahoma City Thunder,,101.0,2024-01-28,True
+2024-02-11,Oklahoma City Thunder,,127.0,2024-02-10,True
+2024-02-23,Oklahoma City Thunder,,147.0,2024-02-22,True
+2024-03-04,Oklahoma City Thunder,104.0,,2024-03-03,True
+2024-03-27,Oklahoma City Thunder,,126.0,2024-03-26,True
+2024-04-03,Oklahoma City Thunder,100.0,,2024-04-02,True
+2024-04-10,Oklahoma City Thunder,,127.0,2024-04-09,True
+2023-10-31,Orlando Magic,102.0,,2023-10-30,True
+2023-11-15,Orlando Magic,96.0,,2023-11-14,True
+2023-11-22,Orlando Magic,,124.0,2023-11-21,True
+2023-12-02,Orlando Magic,101.0,,2023-12-01,True
+2023-12-21,Orlando Magic,114.0,,2023-12-20,True
+2023-12-27,Orlando Magic,,92.0,2023-12-26,True
+2024-01-03,Orlando Magic,135.0,,2024-01-02,True
+2024-01-13,Orlando Magic,100.0,,2024-01-12,True
+2024-01-22,Orlando Magic,,99.0,2024-01-21,True
+2024-01-29,Orlando Magic,129.0,,2024-01-28,True
+2024-02-14,Orlando Magic,,118.0,2024-02-13,True
+2024-02-25,Orlando Magic,92.0,,2024-02-24,True
+2024-03-06,Orlando Magic,119.0,,2024-03-05,True
+2024-03-30,Orlando Magic,,118.0,2024-03-29,True
+2024-04-10,Orlando Magic,99.0,,2024-04-09,True
+2023-10-29,Philadelphia 76ers,,126.0,2023-10-28,True
+2023-11-15,Philadelphia 76ers,,107.0,2023-11-14,True
+2023-11-22,Philadelphia 76ers,99.0,,2023-11-21,True
+2023-12-16,Philadelphia 76ers,135.0,,2023-12-15,True
+2023-12-30,Philadelphia 76ers,92.0,,2023-12-29,True
+2024-01-06,Philadelphia 76ers,,109.0,2024-01-05,True
+2024-01-16,Philadelphia 76ers,,126.0,2024-01-15,True
+2024-01-20,Philadelphia 76ers,97.0,,2024-01-19,True
+2024-01-30,Philadelphia 76ers,107.0,,2024-01-29,True
+2024-02-10,Philadelphia 76ers,119.0,,2024-02-09,True
+2024-02-23,Philadelphia 76ers,,104.0,2024-02-22,True
+2024-03-06,Philadelphia 76ers,,109.0,2024-03-05,True
+2024-03-25,Philadelphia 76ers,96.0,,2024-03-24,True
+2024-04-07,Philadelphia 76ers,133.0,,2024-04-06,True
+2023-11-05,Phoenix Suns,120.0,,2023-11-04,True
+2023-11-22,Phoenix Suns,,123.0,2023-11-21,True
+2023-12-02,Phoenix Suns,,116.0,2023-12-01,True
+2023-12-13,Phoenix Suns,,112.0,2023-12-12,True
+2024-01-01,Phoenix Suns,,109.0,2023-12-31,True
+2024-01-08,Phoenix Suns,111.0,,2024-01-07,True
+2024-01-22,Phoenix Suns,,115.0,2024-01-21,True
+2024-01-29,Phoenix Suns,118.0,,2024-01-28,True
+2024-02-14,Phoenix Suns,,116.0,2024-02-13,True
+2024-02-23,Phoenix Suns,110.0,,2024-02-22,True
+2024-03-03,Phoenix Suns,,110.0,2024-03-02,True
+2024-03-15,Phoenix Suns,107.0,,2024-03-14,True
+2024-03-21,Phoenix Suns,,128.0,2024-03-20,True
+2024-04-10,Phoenix Suns,124.0,,2024-04-09,True
+2023-10-30,Portland Trail Blazers,99.0,,2023-10-29,True
+2023-11-15,Portland Trail Blazers,,95.0,2023-11-14,True
+2023-11-22,Portland Trail Blazers,,121.0,2023-11-21,True
+2023-11-27,Portland Trail Blazers,114.0,,2023-11-26,True
+2023-12-17,Portland Trail Blazers,,114.0,2023-12-16,True
+2023-12-29,Portland Trail Blazers,,134.0,2023-12-28,True
+2024-01-12,Portland Trail Blazers,93.0,,2024-01-11,True
+2024-01-24,Portland Trail Blazers,137.0,,2024-01-23,True
+2024-01-29,Portland Trail Blazers,,130.0,2024-01-28,True
+2024-03-02,Portland Trail Blazers,107.0,,2024-03-01,True
+2024-03-09,Portland Trail Blazers,,128.0,2024-03-08,True
+2024-03-14,Portland Trail Blazers,,93.0,2024-03-13,True
+2024-03-23,Portland Trail Blazers,,111.0,2024-03-22,True
+2024-04-12,Portland Trail Blazers,,107.0,2024-04-11,True
+2023-11-20,Sacramento Kings,93.0,,2023-11-19,True
+2023-11-29,Sacramento Kings,,117.0,2023-11-28,True
+2023-12-12,Sacramento Kings,99.0,,2023-12-11,True
+2023-12-23,Sacramento Kings,,98.0,2023-12-22,True
+2024-01-03,Sacramento Kings,,138.0,2024-01-02,True
+2024-01-10,Sacramento Kings,123.0,,2024-01-09,True
+2024-02-03,Sacramento Kings,123.0,,2024-02-02,True
+2024-02-14,Sacramento Kings,102.0,,2024-02-13,True
+2024-02-26,Sacramento Kings,,110.0,2024-02-25,True
+2024-03-07,Sacramento Kings,,131.0,2024-03-06,True
+2024-03-13,Sacramento Kings,,120.0,2024-03-12,True
+2024-03-21,Sacramento Kings,102.0,,2024-03-20,True
+2024-03-26,Sacramento Kings,,96.0,2024-03-25,True
+2024-04-05,Sacramento Kings,100.0,,2024-04-04,True
+2024-04-12,Sacramento Kings,,107.0,2024-04-11,True
+2023-11-06,San Antonio Spurs,111.0,,2023-11-05,True
+2023-11-18,San Antonio Spurs,,108.0,2023-11-17,True
+2023-12-01,San Antonio Spurs,106.0,,2023-11-30,True
+2023-12-29,San Antonio Spurs,128.0,,2023-12-28,True
+2024-01-13,San Antonio Spurs,,116.0,2024-01-12,True
+2024-01-20,San Antonio Spurs,131.0,,2024-01-19,True
+2024-01-27,San Antonio Spurs,,113.0,2024-01-26,True
+2024-02-03,San Antonio Spurs,,101.0,2024-02-02,True
+2024-02-08,San Antonio Spurs,111.0,,2024-02-07,True
+2024-02-23,San Antonio Spurs,118.0,,2024-02-22,True
+2024-03-12,San Antonio Spurs,,101.0,2024-03-11,True
+2024-03-23,San Antonio Spurs,,106.0,2024-03-22,True
+2024-04-10,San Antonio Spurs,89.0,,2024-04-09,True
+2023-10-28,Toronto Raptors,,107.0,2023-10-27,True
+2023-11-02,Toronto Raptors,99.0,,2023-11-01,True
+2023-11-22,Toronto Raptors,132.0,,2023-11-21,True
+2023-11-29,Toronto Raptors,,112.0,2023-11-28,True
+2023-12-23,Toronto Raptors,,119.0,2023-12-22,True
+2023-12-30,Toronto Raptors,127.0,,2023-12-29,True
+2024-01-10,Toronto Raptors,120.0,,2024-01-09,True
+2024-01-18,Toronto Raptors,,110.0,2024-01-17,True
+2024-02-05,Toronto Raptors,100.0,,2024-02-04,True
+2024-02-10,Toronto Raptors,,95.0,2024-02-09,True
+2024-02-23,Toronto Raptors,123.0,,2024-02-22,True
+2024-03-23,Toronto Raptors,109.0,,2024-03-22,True
+2024-04-03,Toronto Raptors,85.0,,2024-04-02,True
+2024-04-10,Toronto Raptors,102.0,,2024-04-09,True
+2023-10-28,Utah Jazz,104.0,,2023-10-27,True
+2023-11-02,Utah Jazz,,113.0,2023-11-01,True
+2023-11-22,Utah Jazz,105.0,,2023-11-21,True
+2023-11-30,Utah Jazz,90.0,,2023-11-29,True
+2023-12-14,Utah Jazz,122.0,,2023-12-13,True
+2023-12-21,Utah Jazz,119.0,,2023-12-20,True
+2024-01-06,Utah Jazz,120.0,,2024-01-05,True
+2024-01-13,Utah Jazz,,132.0,2024-01-12,True
+2024-01-30,Utah Jazz,103.0,,2024-01-29,True
+2024-02-15,Utah Jazz,,137.0,2024-02-14,True
+2024-03-16,Utah Jazz,,100.0,2024-03-15,True
+2024-03-21,Utah Jazz,97.0,,2024-03-20,True
+2024-04-12,Utah Jazz,110.0,,2024-04-11,True
+2023-11-13,Washington Wizards,107.0,,2023-11-12,True
+2023-11-25,Washington Wizards,,108.0,2023-11-24,True
+2023-12-18,Washington Wizards,131.0,,2023-12-17,True
+2023-12-22,Washington Wizards,118.0,,2023-12-21,True
+2023-12-27,Washington Wizards,,102.0,2023-12-26,True
+2024-01-06,Washington Wizards,,105.0,2024-01-05,True
+2024-01-21,Washington Wizards,,104.0,2024-01-20,True
+2024-01-25,Washington Wizards,,108.0,2024-01-24,True
+2024-02-10,Washington Wizards,,113.0,2024-02-09,True
+2024-02-23,Washington Wizards,106.0,,2024-02-22,True
+2024-03-01,Washington Wizards,115.0,,2024-02-29,True
+2024-03-17,Washington Wizards,,104.0,2024-03-16,True
+2024-04-03,Washington Wizards,,120.0,2024-04-02,True
